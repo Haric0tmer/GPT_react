@@ -1,7 +1,7 @@
 import './feature.css';
 function Feature(props) {
     return (
-        <div className='gpt3__features-container-feature'>
+        <div className='gpt3__features-container__feature'>
             <div className='gpt3__features-container__feature-title'>
                 <div></div>
                 <h1>{props.title}</h1>
