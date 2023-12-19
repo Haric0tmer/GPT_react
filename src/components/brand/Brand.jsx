@@ -16,7 +16,7 @@ function Brand() {
                 <img src={dropbox} alt="dropbox" />
             </div>
             <div>
-                <img src={shopify} alt="shopify" />slack
+                <img src={shopify} alt="shopify" />
             </div>
         </div>
     );
